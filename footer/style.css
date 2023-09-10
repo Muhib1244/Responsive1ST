@@ -1,0 +1,146 @@
+
+
+/* Footer section */
+
+.srvc{
+
+}
+
+.srvc h4{
+    color: green;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.srvc li{
+    list-style: none;
+    line-height: 40px;
+}
+.srvc li a{
+    text-decoration: none;
+    color: gray;
+    font-size: 18px;
+}
+.srvc li a:hover{
+    color: green;
+    text-decoration: underline;
+    transition: .4s;
+}
+
+.abt{}
+.abt h4{
+    color: green;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 10px; 
+}
+.abt li{
+    list-style: none;
+    line-height: 40px;
+}
+.abt li a{
+    text-decoration: none;
+    color: gray;
+    font-size: 18px;
+}
+.abt li a:hover{
+    color: green;
+    text-decoration: underline;
+    transition: .4s;
+}
+
+.hlp{}
+.hlp h4{
+    color: green;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.hlp li{
+    list-style: none;
+    line-height: 40px;
+}
+.hlp li a{
+    text-decoration: none;
+    color: gray;
+    font-size: 18px;
+}
+.hlp li a:hover{
+    color: green;
+    text-decoration: underline;
+    transition: .4s;
+}
+
+.ftbttn{
+    width: 300px;
+    background-color: #539bdf0e;
+    padding: 15px;
+    border-radius: 8px;
+}
+.divbtn input{
+    padding: 8px 0;
+    display: inline-block;
+    border: 1px solid green;
+}
+.divbtn button {
+	background-color: green;
+	width: 50px;
+	height: 45px;
+	border: none;
+	border-radius: 3px;
+    margin-left: 0;
+}
+.divbtn button i{
+    display: inline;
+    padding: 5px;
+    background-color: #fff;
+    color: green;
+    /* font-size: 12px; */
+    border-radius: 50%;
+}
+.ftbttn h4{
+    color: green;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.ftbttn p{
+    color: gray;
+    margin-top: 20px;
+}
+
+/* footer text section */
+
+.ttxt{}
+.ttxt li{
+    list-style: none;
+    display: inline-block;
+}
+.ttxt li a{
+    text-decoration: none;
+    display: inline;
+    color: gray;
+    padding: 10px;
+    font-size: 20px;
+}
+.ttxt li a:hover{
+    color: green;
+}
+
+.icnn{
+    text-align: right;
+}
+.icnn span{
+    font-size: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-left: 18px;
+}
+.icnn span i{
+    
+}
+.icnn span:hover{
+    color: green;
+    transition: .4s;
+}
